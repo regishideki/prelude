@@ -1,4 +1,4 @@
-(prelude-require-packages '(yasnippet))
+(prelude-require-packages '(yasnippet sml-modeline sml-mode))
 
 (yas-global-mode 1)
 (helm-projectile-on)
